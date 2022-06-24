@@ -1,1 +1,1 @@
-how to add execute permission to the owner of the file
+how to execute permissions to the owner and the group owner ,and read permission to other users to the file hello 
