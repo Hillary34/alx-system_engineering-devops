@@ -1,1 +1,1 @@
-how to create a directory called my_dir with permissions 751 in the directory
+how to change the group owner to school for the file hello
