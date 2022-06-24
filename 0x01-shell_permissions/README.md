@@ -1,1 +1,1 @@
-how to print all the groups the current user is part of
+how to change ownership of a file to another user
