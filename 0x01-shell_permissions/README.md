@@ -1,1 +1,1 @@
-how to change ownership of a file to another user
+how to create an empty file
