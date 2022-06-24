@@ -1,1 +1,1 @@
-how to set permissions to the file hello
+how to set the mode of the file hello to anything
