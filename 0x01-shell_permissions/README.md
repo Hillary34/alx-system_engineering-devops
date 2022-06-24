@@ -1,1 +1,1 @@
-how to set the mode of the file hello to anything
+how to set mode of the file hello to be the same as olleh mode
