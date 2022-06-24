@@ -1,1 +1,1 @@
-how to set mode of the file hello to be the same as olleh mode
+how to add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
