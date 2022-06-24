@@ -1,1 +1,1 @@
-how to change the group owner to school for the file hello
+how to change the owner to vincent and the group owner to staff for all files and directories in the working directory
