@@ -1,1 +1,1 @@
-how to add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+how to create a directory called my_dir with permissions 751 in the directory
