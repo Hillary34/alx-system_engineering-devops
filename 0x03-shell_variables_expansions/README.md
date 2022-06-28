@@ -1,1 +1,1 @@
-how to create an alias
+script that prints hello user
