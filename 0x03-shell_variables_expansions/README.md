@@ -1,1 +1,1 @@
-script that prints hello user
+add variables
