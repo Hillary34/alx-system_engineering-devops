@@ -1,1 +1,1 @@
-script that converts a number from base 2 to 10
+script that creates all possible combination of two letters except oo
