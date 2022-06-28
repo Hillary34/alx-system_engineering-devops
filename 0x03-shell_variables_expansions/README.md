@@ -1,1 +1,1 @@
-script that print the result of addition of variables
+script that prints the result of power divided by divide
