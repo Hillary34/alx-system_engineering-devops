@@ -1,1 +1,1 @@
-add variables
+script that lists environment variables
