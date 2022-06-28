@@ -1,1 +1,1 @@
-script that display the result of breath to the power love
+script that converts a number from base 2 to 10
