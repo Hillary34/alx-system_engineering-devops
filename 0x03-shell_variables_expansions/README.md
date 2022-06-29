@@ -1,1 +1,1 @@
-a script that converts a number from base 10 to 16
+a script that encodes and decodes text
